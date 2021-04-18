@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DiffUtilRecyclerViewDemo</string>
+    <string name="sort_by_title">Sort By Title</string>
+    <string name="sort_by_publishedat">Sort By PublishedAt</string>
+    <string name="static_content">Static content</string>
+    <string name="dynamic_content">Dynamic content</string>
+    <string name="dynamic_content_with_change_payload_implementation">Dynamic content with getChangePayload Implementation</string>
+    <string name="employee_a">Swati</string>
+    <string name="employee_b">Shashank</string>
+    <string name="employee_c">Anju</string>
+    <string name="employee_d">Neha</string>
+    <string name="employee_e">Asha</string>
+    <string name="employee_f">Shree</string>
+    <string name="employee_g">Raghav</string>
+    <string name="employee_h">Puja</string>
+    <string name="employee_i">Saumya</string>
+    <string name="role_a">Technical Lead</string>
+    <string name="role_b">Tester</string>
+    <string name="role_c">Support</string>
+    <string name="role_d">Sales Manager</string>
+    <string name="role_e">Sr. Tester</string>
+    <string name="role_f">Team lead</string>
+    <string name="role_g">Scrum Master</string>
+    <string name="role_h">Sr. Developer</string>
+    <string name="role_i">Manager</string>
+    <string name="employee_j">Mahesh</string>
+    <string name="employee_k">Suresh</string>
+    <string name="employee_l">Ramesh</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_role">Sort By Role</string>
+</resources>
